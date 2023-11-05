@@ -1,4 +1,4 @@
-print('IMC')
+print('Meu IMC')
 peso = 50
 altura = 1.70
 imc = peso / (altura ** 2)
